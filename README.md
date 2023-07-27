@@ -18,9 +18,9 @@ In this repository, I wanted to showcase some of the code that I've been working
 * In order to analyze and further narrow down the number of features needed, I calculated several correlation matrices between the features and the recurrence variable. With these correlation scores, I was able to eliminate any overly correlated variables. (seen in "Female_CorrMatrix.ipynb") Additionally, I also conducted principal component analysis which further demonstrated what features played the largest role in the variance and offered a way to combine features into fewer principal components. (seen in "PCA_PostImp.ipynb")
 
 #### File Description:
-* ICDBreakpoint.ipynb
-* Female_CorrMatrix.ipynb
-* PCA_PostImp.ipynb
+* ICDBreakpoint.ipynb (in progress)
+* Female_CorrMatrix.ipynb (in progress)
+* PCA_PostImp.ipynb (in progress)
   
 #### Credits:
 Everything completed here was under the guidance and mentorship of Dr. Zorrilla and the help of other lab's members.
