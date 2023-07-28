@@ -22,7 +22,7 @@ In this repository, I wanted to showcase some of the code that I've been working
 
 * **Female_CorrMatrix-Github.ipynb**: This file calculates the correlation matrices for female data. It calculates the correlation between the features to identify any features that are overly correlated with one another using Cramer's V for comparing categorical features and Pearson for comparing continuous features.
 
-* **PCA_PostImp-Github.ipynb**: This file conducts principal component analysis on the data; calculating the principal component scores, eigenvalues, loadings, and more. It also graphs and provides visualization for the PCA analysis to better understand what principal components are most important and what features contribute the most to the principal components.
+* **Fem_PCA-Github.ipynb**: This file conducts principal component analysis on the female data for participants who are eligible based on criteria regarding alcohol use disorder diagnoses, recurrence dates, etc. I calculated the principal component scores, eigenvalues, loadings, and graphed some visualizations for the PCA analysis to better understand what principal components are most important and what features contribute the most to the principal components.
   
 #### Credits:
 Everything completed here was under the guidance and mentorship of Dr. Zorrilla and the help of other lab members.
