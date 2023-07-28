@@ -25,4 +25,4 @@ In this repository, I wanted to showcase some of the code that I've been working
 * **PCA_PostImp-Github.ipynb**: This file conducts principal component analysis on the data; calculating the principal component scores, eigenvalues, loadings, and more. It also graphs and provides visualization for the PCA analysis to better understand what principal components are most important and what features contribute the most to the principal components.
   
 #### Credits:
-Everything completed here was under the guidance and mentorship of Dr. Zorrilla and the help of other lab's members.
+Everything completed here was under the guidance and mentorship of Dr. Zorrilla and the help of other lab members.
