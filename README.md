@@ -18,11 +18,11 @@ In this repository, I wanted to showcase some of the code that I've been working
 * In order to analyze and further narrow down the number of features needed, I calculated several correlation matrices between the features and the recurrence variable. With these correlation scores, I was able to eliminate any overly correlated variables. (seen in "Female_CorrMatrix.ipynb") Additionally, I also conducted principal component analysis which further demonstrated what features played the largest role in the variance and offered a way to combine features into fewer principal components. (seen in "PCA_PostImp.ipynb")
 
 #### File Descriptions:
-* **ICDBreakpoint.ipynb**: This file identifies what ICD codes to include by graphing the frequencies of each ICD code and calculating the point where the frequencies suddenly decrease to find the most frequently occuring ICD codes. All ICD codes prior to this breakpoint were kept for the analysis.
+* **ICDBreakpoint-Github.ipynb**: This file identifies what ICD codes to include by graphing the frequencies of each ICD code and calculating the point where the frequencies suddenly decrease to find the most frequently occuring ICD codes. All ICD codes prior to this breakpoint were kept for the analysis.
 
-* **Female_CorrMatrix.ipynb**: This file calculates the correlation matrices for female data. It calculates the correlation between the features to identify any features that are overly correlated with one another using Cramer's V for comparing categorical features and Pearson for comparing continuous features.
+* **Female_CorrMatrix-Github.ipynb**: This file calculates the correlation matrices for female data. It calculates the correlation between the features to identify any features that are overly correlated with one another using Cramer's V for comparing categorical features and Pearson for comparing continuous features.
 
-* **PCA_PostImp.ipynb**: This file conducts principal component analysis on the data; calculating the principal component scores, eigenvalues, loadings, and more. It also graphs and provides visualization for the PCA analysis to better understand what principal components are most important and what features contribute the most to the principal components.
+* **PCA_PostImp-Github.ipynb**: This file conducts principal component analysis on the data; calculating the principal component scores, eigenvalues, loadings, and more. It also graphs and provides visualization for the PCA analysis to better understand what principal components are most important and what features contribute the most to the principal components.
   
 #### Credits:
 Everything completed here was under the guidance and mentorship of Dr. Zorrilla and the help of other lab's members.
