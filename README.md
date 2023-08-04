@@ -14,7 +14,7 @@ In this repository, I wanted to showcase some of the code that I've been working
 ##### Step 2: Transforming Data
 * With the selected features and participants narrowed down, I normalized the features that weren't already normal and scaled the data using Box-Cox and Standard Scaler. The categorical features were then one-hot encoded, with missing or non-responsive answers accounting for columns as well.
 * Finally, I conducted MICE imputation to fill in missing values.
-#### Step 3: Further Feature Selection (Correlation Matrices and PCA)
+##### Step 3: Further Feature Selection (Correlation Matrices and PCA)
 * In order to analyze and further narrow down the number of features needed, I calculated several correlation matrices between the features and the recurrence variable. With these correlation scores, I was able to eliminate any overly correlated variables. (seen in "Female_CorrMatrix.ipynb") Additionally, I also conducted principal component analysis which further demonstrated what features played the largest role in the variance and offered a way to combine features into fewer principal components. (seen in "PCA_PostImp.ipynb")
 
 #### File Descriptions:
